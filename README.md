@@ -29,7 +29,7 @@ API REST desenvolvida com Node.js, Express, MySQL e Sequelize para o gerenciamen
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Sandroalbuqe/ordnas-store-api.git
 ```
 
 Entre na pasta do projeto:
