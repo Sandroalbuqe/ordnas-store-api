@@ -30,11 +30,6 @@ API REST desenvolvida com Node.js, Express, MySQL e Sequelize para o gerenciamen
 
 ```bash
 git clone https://github.com/Sandroalbuqe/ordnas-store-api.git
-```
-
-Entre na pasta do projeto:
-
-```bash
 cd ordnas-store-api
 ```
 
@@ -58,7 +53,7 @@ DB_DIALECT=mysql
 JWT_SECRET=sua_chave_secreta
 ```
 
-Configure os dados de acesso ao seu MySQL.
+Configure os dados de acesso ao seu MySQL. Não compartilhe seu arquivo `.env`.
 
 ### 4. Criar o banco de dados
 
